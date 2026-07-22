@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+publish/
+
+# Visual Studio / user-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Published binaries
+*.exe
+*.pdb
